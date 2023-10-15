@@ -1,2 +1,2 @@
 # CodeADA
-UIUC CodeADA 2023 Project Repo
+UIUC CodeADA 2023 Project Rep
