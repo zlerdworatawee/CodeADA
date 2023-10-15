@@ -1,1 +1,3 @@
-Purpose: In order for the chatbot to answer question pertaining to the UIUC community we decided to use questions and answers from reddit since UIUC has a subreddit. With reddit, we need to scrape it and organize the data so that we can use ML and NLP concepts to create our chatbot
+Purpose: In order for the chatbot to answer question pertaining to the UIUC community we decided to use questions 
+and answers from reddit since UIUC has a subreddit. With reddit, we need to scrape it and organize the data so that we can 
+use ML and NLP concepts to create our chatbot.
